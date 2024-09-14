@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<id>1</id>
+		<name>Quam Adebayo</name>
+		<position>System Analyst</position>
+		<department>Information Technology</department>
+		<salary>70000</salary>
+	</employee>
+	<employee>
+		<id>2</id>
+		<name>Idris Adebayo</name>
+		<position>Information Security Analyst</position>
+		<department>Security</department>
+		<salary>80000</salary>
+	</employee>
+	<employee>
+		<id>3</id>
+		<name>Toheeb Adebayo</name>
+		<position>Human Resource Manager</position>
+		<department>Human Resources</department>
+		<salary>60000</salary>
+	</employee>
+</employees>
